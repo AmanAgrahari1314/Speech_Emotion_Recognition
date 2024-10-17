@@ -3,7 +3,7 @@
 
  📖 Overview
 
-Welcome to Speech Emotion Recognition (SER)**! This project dives deep into the fascinating world of detecting human emotions from speech. Ever wondered if a machine could sense your emotions just by listening to your voice? Well, now it can! 😃 😢 😡
+Welcome to Speech Emotion Recognition (SER)! This project dives deep into the fascinating world of detecting human emotions from speech. Ever wondered if a machine could sense your emotions just by listening to your voice? Well, now it can! 😃 😢 😡
 
 Using cutting-edge Python libraries and machine learning techniques, this project aims to classify emotions based on sound data, making it perfect for applications like virtual assistants, call centers, and interactive voice systems. 🚀
 
@@ -81,9 +81,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue. 
  🧑‍💻 Author
 
 This project is brought to you by **Aman Agrahari**. Feel free to check out my other projects on GitHub! 🚀
-
-📜 License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as needed. 📝
 
 ---
